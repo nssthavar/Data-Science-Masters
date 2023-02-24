@@ -1,0 +1,8 @@
+What are the characteristics of the tuples? Is tuple immutable?
+In Python, a tuple is a collection of ordered, immutable elements. Some of the key characteristics of tuples include:
+Tuples are ordered: The elements in a tuple are ordered and each element can be accessed by its index.
+Tuples can contain mixed data types: Unlike lists, tuples can contain elements of different data types.
+Tuples are immutable: Once a tuple is created, it cannot be changed. This means that you cannot add, remove, or modify elements in a tuple.
+Tuples are faster than lists: Because tuples are immutable, they can be processed faster than lists.
+Tuples can be used as keys in dictionaries: Because tuples are immutable, they can be used as keys in dictionaries. Lists cannot be used as keys in dictionaries because they are mutable.
+So, yes, tuples are immutable in Python. Once a tuple is created, it cannot be modified. If you need to modify a tuple, you will need to create a new tuple with the desired modifications.
